@@ -1,0 +1,18 @@
+{
+  "name": "wysihtml5",
+  "version": "0.3.0",
+  "description": "open source rich text editor based on HTML5",
+  "main": "dist/wysihtml5-0.3.0.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliosam/wysihtml5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heliosam/wysihtml5/issues"
+  },
+  "homepage": "https://github.com/heliosam/wysihtml5#readme"
+}
